@@ -1,0 +1,17 @@
+body{
+  background-image: url(bg.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+.login-screen{
+  background-image:linear-gradient(to right,#5d25a783,#6b3fa59d);
+}
+.up-in-btn{
+  background-color: aliceblue;
+  border:2px solid  #2f184e;
+}
+.up-in-btn:hover{
+  background-color: #2f184e;
+  border:2px solid aliceblue ;
+  color:aliceblue ;
+}
